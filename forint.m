@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 167AF381-F451-4535-900D-EXB65C99DB1F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 for (int i = 0; i < <#max#>; i++) {
     <#statements#>
