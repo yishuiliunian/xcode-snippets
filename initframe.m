@@ -1,5 +1,5 @@
-// init
-// Initialization method
+// init with frame
+// Initialization method , init a view with frame
 //
 // IDECodeSnippetCompletionPrefix: initframe
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
